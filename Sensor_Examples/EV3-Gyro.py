@@ -7,10 +7,11 @@
 # Gyro sensor is attached to Port 4.
 ##
 # Select the mode of operation below.  These are the modes of operation for the gyro.
-# TYPE_SENSOR_EV3_GYRO_M0 - Returns absolute angle turned from startup.
-# TYPE_SENSOR_EV3_GYRO_M1 -  Rotational Speed
-# TYPE_SENSOR_EV3_GYRO_M2 -  Raw sensor value ???
-# TYPE_SENSOR_EV3_GYRO_M3 -  Angle and Rotational Speed?
+TYPE_SENSOR_EV3_GYRO_M0 = 56  # - Returns absolute angle (in X-Y plane) turned from startup.
+# TYPE_SENSOR_EV3_GYRO_M1 = 57  # - Rotational Speed ???
+# TYPE_SENSOR_EV3_GYRO_M2 = 58  # - Raw sensor value ???
+# TYPE_SENSOR_EV3_GYRO_M3 = 59  # - Angle and Rotational Speed ???
+# TYPE_SENSOR_EV3_GYRO_M4 = 60  # - ???
 ##
 #
 # Original Author: John

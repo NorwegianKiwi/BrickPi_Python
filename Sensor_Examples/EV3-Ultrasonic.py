@@ -8,7 +8,7 @@
 # Sensor is attached to Port 4.
 ##
 # Select the mode of operation below.  These are the modes of operation for the gyro.
-# TYPE_SENSOR_EV3_US_M0 - Continuous measurement, distance, cm
+TYPE_SENSOR_EV3_US_M0 = 43  # - Continuous measurement, distance, cm
 # TYPE_SENSOR_EV3_US_M1 - Continuous measurement, distance, in
 # TYPE_SENSOR_EV3_US_M2 - Listen // 0 r 1 depending on presence of another US sensor.
 ##
